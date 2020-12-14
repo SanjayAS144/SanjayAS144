@@ -9,7 +9,6 @@ I am a developer who is passionate about stuff like androids and backends. Few t
 - 🤝 Open for working for a Freelance Project.
 I am presently pursuing Btech in *Information Technology*.<br><br>
 
-
 <!--![visitors](https://komarev.com/ghpvc/?username=akshat-fsociety&style=flat-square&color=red)-->
 
 
@@ -18,8 +17,9 @@ I am presently pursuing Btech in *Information Technology*.<br><br>
 
 <!--https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif-->
 - 💬 Ask me about anything and everything !! 
-- 💬 Connect with on **Linkedin** => <a href="https://www.linkedin.com/in/akshat-srivastava-4812271a9/">LinkedIn</a>
-- 
+- 💬 Connect with on **Linkedin** => <a href="https://www.linkedin.com/in/sanjay-as-sanju-024b6216b">LinkedIn</a>
+
+
 **echo "Languages and Toolkit:"**
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
