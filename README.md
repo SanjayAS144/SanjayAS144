@@ -7,7 +7,7 @@
 I am a developer who is passionate about stuff like androids and backends. Few tech that I enjoy working in are Java, C++, Dart,Python, OpenCV and much more. I am actively looking for opportunities in App Development. Recently, I have just started with freelancing!
 - 👨🏽‍💻 Currently working, learning and growing my skillset in android development, competitive coding, data structures and algorithms.
 - 🤝 Open for working for a Freelance Project.
-I am presently pursuing Btech in *Information Technology*.<br><br>
+I am presently pursuing Btech in *Electronic and Communication*.<br><br>
 
 <!--![visitors](https://komarev.com/ghpvc/?username=akshat-fsociety&style=flat-square&color=red)-->
 
