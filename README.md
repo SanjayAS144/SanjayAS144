@@ -23,11 +23,11 @@ I am a developer who is passionate about stuff like androids and backends. Few t
  <br>
  <p align = "center">
   <a href="https://github.com/SanjayAS144/neumorphic-calculator">
-   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=SanjayAS144&repo=sender&theme=radical">
+   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=SanjayAS144&repo=neumorphic-calculator&theme=radical">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/SanjayAS144/RentalApp">
-   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=SanjayAS144&repo=watchit&theme=radical">
+   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=SanjayAS144&repo=RentalApp&theme=radical">
   </a>
 </p>
 </details>
