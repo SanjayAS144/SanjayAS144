@@ -1,16 +1,34 @@
-### Hi there 👋
+<a href="https://twitter.com/itsmeallenbenny" target="_blank" rel="nofollow"><img align="right" alt="Allen's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/allen-benny" target="_blank" rel="nofollow"><img align="right" alt="Allen's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.hackerrank.com/allen_officially" target="_blank" rel="nofollow"><img align="right" alt="Allen's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg"/></a>
+## Hi 👋 I am Sanjay! 
+I am a developer who is passionate about stuff like androids and backends. Few tech that I enjoy working in are Java, C++, Dart, Node, Express , Python, OpenCV and much more. I am actively looking for opportunities in App Development. Recently, I have just started with freelancing!
+- 👨🏽‍💻 Currently working, learning and growing my skillset in android development, competitive coding, data structures and algorithms.
+- 🤝 Open for working for a Freelance Project.
+- 🌐 Visit my [porfolio website](https://materilio-allen.firebaseapp.com) for complete background and contact.
+- 👋 My personal [blog site](https://iamallenbenny.blogspot.com/)
 
-<!--
-**SanjayAS144/SanjayAS144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+ <p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayAS144&langs_count=4&hide=css&theme=radical">
+  &nbsp;&nbsp;&nbsp;
+  <img src = "https://github-readme-stats.vercel.app/api?username=SanjayAS144&show_icons=true&theme=radical&line_height=27">
+</p>
+</details>
 
-Here are some ideas to get you started:
+---
+<details open>
+ <summary> 😇 <b>My Projects</b>: </summary>
+ <br>
+ <p align = "center">
+  <a href="https://github.com/officiallygod/sender">
+   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=SanjayAS144&repo=sender&theme=radical">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/officiallygod/watchit">
+   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=officiallygod&repo=watchit&theme=radical">
+  </a>
+</p>
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
