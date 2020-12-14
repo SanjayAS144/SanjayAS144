@@ -1,10 +1,41 @@
 <a href="https://www.linkedin.com/in/sanjay-as-sanju-024b6216b" target="_blank" rel="nofollow"><img align="right" alt="Allen's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.hackerrank.com/sanjayas430" target="_blank" rel="nofollow"><img align="right" alt="Allen's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg"/></a>
-## Hi 👋 I am Sanjay! 
-I am a developer who is passionate about stuff like androids and backends. Few tech that I enjoy working in are Java, C++, Dart, Node, Express , Python, OpenCV and much more. I am actively looking for opportunities in App Development. Recently, I have just started with freelancing!
+
+# ***Coder by Passion***
+### Hello Everyone !!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
+
+**ABOUT ME** <br>
+I am a developer who is passionate about stuff like androids and backends. Few tech that I enjoy working in are Java, C++, Dart,Python, OpenCV and much more. I am actively looking for opportunities in App Development. Recently, I have just started with freelancing!
 - 👨🏽‍💻 Currently working, learning and growing my skillset in android development, competitive coding, data structures and algorithms.
 - 🤝 Open for working for a Freelance Project.
-- 🌐 Visit my [porfolio website](https://materilio-allen.firebaseapp.com) for complete background and contact.
-- 👋 My personal [blog site](https://iamallenbenny.blogspot.com/)
+I am presently pursuing Btech in *Information Technology*.<br><br>
+
+
+<!--![visitors](https://komarev.com/ghpvc/?username=akshat-fsociety&style=flat-square&color=red)-->
+
+
+
+ <img align ="right" alt="GIF" src="https://camo.githubusercontent.com/6b8003c24dc861b87ecca67ebc00ac25a32a2481a22cc2f3fc6a5826750a4fd5/68747470733a2f2f717068732e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d3033613461356630333462663062616661363631666438613861616265646338" width="300px" /> 
+
+<!--https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif-->
+- 💬 Ask me about anything and everything !! 
+- 💬 Connect with on **Linkedin** => <a href="https://www.linkedin.com/in/akshat-srivastava-4812271a9/">LinkedIn</a>
+- 
+**echo "Languages and Toolkit:"**
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Java" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+
+
+<br><br>
+ <p>
+<a href="https://www.linkedin.com/in/sanjay-as-sanju-024b6216b">
+    <img src="https://img.shields.io/badge/Sanjay-AS-386938188?style=flat&logo=linkedin" href="">
+  </a> 
+
 
 ---
 <details open>
