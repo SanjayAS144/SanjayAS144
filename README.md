@@ -2,6 +2,7 @@
 
 # ***Coder by Passion***
 ### Hello Everyone !!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
+<img src="https://github.com/SanjayAS144/ux-ninja/blob/main/abc_4%20(1).gif" alt="side Image" align="center" width="1000" height="auto" />
 
 **ABOUT ME** <br>
 I am a developer who is passionate about stuff like androids and backends. Few tech that I enjoy working in are Java, C++, Dart,Python, OpenCV and much more. I am actively looking for opportunities in App Development. Recently, I have just started with freelancing!
