@@ -1,5 +1,4 @@
-
-### Hello Everyone !!  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
+### Hello Everyone !!  
 <img src="https://github.com/SanjayAS144/ux-ninja/blob/main/abc_4%20(1).gif" alt="side Image" align="center" width="1000" height="auto" />
 
 **ABOUT ME** <br>
